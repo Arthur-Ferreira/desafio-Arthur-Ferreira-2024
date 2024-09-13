@@ -6,3 +6,5 @@ class Animal {
     this.carnivoro = carnivoro;
   }
 }
+
+export { Animal };
